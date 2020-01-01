@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\bin\Debug\netcoreapp2.2\Proposta.Repository.deps.json
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\bin\Debug\netcoreapp2.2\Proposta.Repository.dll
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\bin\Debug\netcoreapp2.2\Proposta.Repository.pdb
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\obj\Debug\netcoreapp2.2\Proposta.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\obj\Debug\netcoreapp2.2\Proposta.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\obj\Debug\netcoreapp2.2\Proposta.Repository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\obj\Debug\netcoreapp2.2\Proposta.Repository.dll
+C:\Users\Administrator\source\repos\Proposta\Proposta.Repository\obj\Debug\netcoreapp2.2\Proposta.Repository.pdb

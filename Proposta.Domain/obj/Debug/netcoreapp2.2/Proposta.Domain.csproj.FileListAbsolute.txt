@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\bin\Debug\netcoreapp2.2\Proposta.Domain.deps.json
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\bin\Debug\netcoreapp2.2\Proposta.Domain.dll
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\bin\Debug\netcoreapp2.2\Proposta.Domain.pdb
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\obj\Debug\netcoreapp2.2\Proposta.Domain.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\obj\Debug\netcoreapp2.2\Proposta.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\obj\Debug\netcoreapp2.2\Proposta.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\obj\Debug\netcoreapp2.2\Proposta.Domain.dll
+C:\Users\Administrator\source\repos\Proposta\Proposta.Domain\obj\Debug\netcoreapp2.2\Proposta.Domain.pdb
